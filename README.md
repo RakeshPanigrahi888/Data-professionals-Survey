@@ -79,7 +79,8 @@ Metrics for *Work/Life Balance* and *Happiness with Salary*, offering insights i
 
 > (Insert your dashboard screenshot here)  
 > Example:  
-> ![Dashboard Preview](images/dashboard_preview.png)
+> ![Dashboard Preview]([DataProfessionalsSurvey](https://github.com/user-attachments/assets/ab2494b4-fe9a-4586-8909-a89c10ed33d7)
+)
 
 ---
 
