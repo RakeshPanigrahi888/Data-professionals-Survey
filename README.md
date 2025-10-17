@@ -77,7 +77,7 @@ Metrics for *Work/Life Balance* and *Happiness with Salary*, offering insights i
 
 ## 📸 Preview
 
-> ![Dashboard Preview] ( images/dashboard_main.png)
+> ![Dashboard Overview](images/dashboard_main.png)
 > 
 
 ---
