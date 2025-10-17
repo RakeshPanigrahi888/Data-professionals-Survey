@@ -1,0 +1,16 @@
+📁 Data-Professionals-Survey/
+├── data/
+│   ├── survey_raw.csv
+│   ├── cleaned_data.csv
+│
+├── dashboard/
+│   ├── Data_Professionals_Dashboard.pbix
+│   ├── Dashboard_Overview.md     ← (your detailed dashboard README)
+│   └── images/
+│       └── dashboard_preview.png
+│
+├── notebooks/
+│   └── data_cleaning.ipynb
+│
+├── README.md                     ← (short project summary + links)
+└── LICENSE
